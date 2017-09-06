@@ -1,0 +1,19 @@
+html {
+	font-family: sans-serif;
+	background-color: #f9c425;
+}
+em {
+	color:#808080
+}
+#movie-subtitle {
+	font-size: 36px;
+}
+#movie-subtitle {
+	font-size: 24px;
+}
+.script {
+	font-family: monospace;
+}
+.source {
+	font-size: 12px;
+}
