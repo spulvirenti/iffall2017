@@ -1,0 +1,103 @@
+html,
+body {
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 5%;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	color:#707070;
+}
+h2 {
+	font-size: 16px;
+	line-height: 1.2em;
+	margin-left: 1%
+}
+h3 {
+	font-size: 36px;
+	font-weight: bold;
+	color:#707070;
+	margin-left: 1%
+}
+.sub-header {
+	font-weight: normal;
+	margin-bottom: 15px;
+	font-size: 16px;
+	margin-left: 1%
+}
+.font-weight .normal {
+	font-weight: normal;
+	line-height: .4em;
+	margin-left: 2%
+}
+.font-weight .bold {
+	font-weight: bold;
+	line-height: .4em;
+	margin-left: 2%
+}
+.font-style .normal {
+	font-style: normal;
+	line-height: .4em;
+	margin-left: 2%
+}
+.font-style .italic {
+	font-style: italic;
+	line-height: .4em;
+	margin-left: 2%
+}
+.letter-spacing .normal {
+	letter-spacing: normal;
+	line-height: .4em;
+	margin-left: 1%
+}
+.letter-spacing .positive {
+	letter-spacing: .3em;
+	line-height: .4em;
+	margin-left: 2%
+}
+.letter-spacing .negative {
+	letter-spacing: -.06em;
+	line-height: .2em;
+	margin-left: 2%
+}
+.text-decoration .none {
+	text-decoration: none;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-decoration .underline{ 
+	text-decoration: underline;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-decoration .line-through {
+	text-decoration: line-through;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-decoration .overline {
+	text-decoration: overline;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-transform .none {
+	text-transform: none;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-transform .uppercase {
+	text-transform: uppercase;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-transform .lowercase {
+	text-transform: lowercase;
+	line-height: .4em;
+	margin-left: 2%
+}
+.text-transform .capitalize {
+	text-transform: capitalize;
+	line-height: .4em;
+	margin-left: 2%
+}
