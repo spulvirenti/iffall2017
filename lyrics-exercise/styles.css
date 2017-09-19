@@ -1,22 +1,47 @@
-html {
-	font-family: arial;
+html{
 	background-color: black;
 }
-h1 {
-	font-family: ;
-	font-size: 36px;
+body{
+	font-family: 'Josefin Sans', sans-serif;
+	line-height: 1.25em;
 	color: white;
+	font-size: 18px;
+	font-style: bold;
+	background-image: url (https://www.xmple.com/wallpaper/gradient-red-linear-black-1920x1080-c2-8b0000-000000-a-270-f-14.svg);
+}
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 36px;
+	color: #912121;
+	text-decoration: underline;
 }
 h2 {
+	font-family: 'Indie Flower', cursive;
 	font-size: 24px;
 	color: white;
 }
 i {
-	color: grey;
+	color: #686868;
 }
 strong {
-	color: grey;
+	color: #b7b5b5;
 }
-p{
-	color: white;
+p {
+	color: #d6d6d6;
+	font-style: bold;
+}
+.title{
+	color: #353535;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.verse{
+	color: #912121;
+	font-size: 18px;
+}
+.break{
+	font-style: italic;
+	color: #686868;
+	font-size: 14px;
 }
