@@ -7,7 +7,9 @@ body{
 	color: white;
 	font-size: 18px;
 	font-style: bold;
-	background-image: url (https://www.xmple.com/wallpaper/gradient-red-linear-black-1920x1080-c2-8b0000-000000-a-270-f-14.svg);
+	background-image: url(http://images.fanpop.com/images/image_uploads/Blink-blink-182-711238_500_375.jpg);
+	background-position: right bottom;
+	background-repeat: no-repeat;
 }
 h1 {
 	font-family: 'Indie Flower', cursive;
