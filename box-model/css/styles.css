@@ -1,0 +1,181 @@
+*, *:before, *:after{
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Archivo Narrow', sans-serif;
+	background-color: #7bf2df;
+}
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 78px;
+	letter-spacing: 0.75px;
+	color: #721356;
+}
+h3{
+	margin-top: 3px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	color: #721356;
+}
+h4{
+	margin-top: 40px;
+	margin-bottom: 0px;
+	font-size: 40px;
+	text-align: center;
+	color: #721356
+}
+h5{
+	margin-top: 97px;
+	margin-bottom: 0px;
+	font-size: 40px;
+	text-align: center;
+	color: #721356
+}
+#intro{
+	padding-top: 157px;
+	padding-bottom: 205px;
+	text-align: center;
+	max-height: 482px;
+	background-image: url('https://media.wired.com/photos/59568e4aad90646d424bbd0b/2:1/w_2500,c_limit/HotDog-682828450-%5BConverted%5D.jpg');
+}
+.container1{
+	background-color: #c2ffbf;
+	margin-bottom: 55px;
+}
+#subsect{
+	width: 961px;
+	margin: auto;
+	font-size: 18px;
+	line-height: 1.34rem;
+	margin-top: 33px;
+	color:#721356;
+}
+#subsect p {
+	margin-bottom: -3.5px;
+}
+.pic1{
+	margin-left: 41px;
+	margin-bottom: 15px;
+	width: 400px;
+	height: 300px;
+	float: right;
+	background-image: url(https://i.pinimg.com/736x/9d/a5/fd/9da5fdec628ce44d07cbb2abad0a9bd1--cool-pets-the-sun.jpg);
+	background-size: 100% 100%;
+}
+.container2{
+	background-color: #ddffdb;
+}
+#subsect2{
+	width: 960px;
+	margin: auto;
+	background-color: #7bf2df;
+}
+.leftimg{
+	font-size: 18px;
+	margin-top: 10px;
+	width: 50%;
+	float: left;
+	color:#721356;
+}
+.photoitem p{
+	margin-left: 212px;
+	margin-top: -40px;
+	margin-right: 30px;
+	margin-bottom: -29px;
+}
+p{
+	margin: 0px;
+	padding: 0px;
+}
+.clear {
+	clear: both;
+}
+h6{
+	font-size: 21px;
+	margin-left: 212px;
+	margin-top: 23px;
+	color:#721356;
+}
+.pic2, .pic3, .pic4 {
+	width: 200px;
+	height: 150px;
+	background-size: 100% 100%;
+	float: left;
+	margin-top: -25px;
+}
+.pic2{
+	margin-top:1px;
+	background-image: url(http://s3.amazonaws.com/kidzworld_photo/images/2013723/00cc9851-6794-4862-a2e5-a21c61dfe389/hot-dog-gallery3.jpg);
+}
+.pic3{
+	margin-top:3px;
+	background-image: url(http://i.ebayimg.com/images/i/271552039929-0-1/s-l1000.jpg);
+}
+.pic4{
+	margin-top:-3px;
+	background-image: url(https://images-na.ssl-images-amazon.com/images/I/41dvu0nL%2BLL._SL500_AC_SS350_.jpg);
+}
+.pic5, .pic6, .pic7{
+	width: 200px;
+	height: 150px;
+	background-size: 100% 100%;
+	float: left;
+	margin-top: -25px;
+}
+.pic5{
+	margin-top:1px;
+	background-image: url(http://www.petmountain.com/photos/product/standard/114420S595850/dog-costumes/lookin-good-hot-dog-dog-costume.jpg);
+}
+.pic6{
+	margin-top:3px;
+	background-image: url(https://cdn.shopify.com/s/files/1/1437/1156/products/221217_Hot_Dog_Costume_b11fcb8b-9301-493b-a5a5-c6adc54e5fac-prv.jpg?v=1492167035);
+}
+.pic7{
+	margin-top:-3px;
+	background-image: url(http://partycity.scene7.com/is/image/PartyCity/P687618?wid=600&hei=600);
+}
+#subsect3 h5{
+	margin-top:642px;
+	margin-bottom: -5px;
+	font-size: 40.1px;
+	text-align: center;
+}
+.container3{
+	margin-left: 335px;
+	font-size: 27px;
+	text-align: center;
+	line-height: 31px;
+	width: 700px;
+	color:#721356;
+}
+.container3 p{
+	margin-top: 45px;
+	text-align: center;
+}
+#subsect4{
+	height:98px;
+}
+.container4{
+	width:1365px;
+	height:30px;
+	margin-left: 200px;
+	margin-top: 180px;
+	font-size:18px;
+	color: #721356;
+}
+.buttons{
+	color:#721356;
+	float:right;
+	margin-right: 200px;
+	font-size:30px;
+	margin-top:-25px;
+}
+
+
+
+
+
+
+
+
