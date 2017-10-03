@@ -1,0 +1,187 @@
+#btn_coca-cola{
+	opacity: 0.25;
+}
+#btn_coca-cola:hover{
+	opacity: 1;
+}	
+#btn_apple:hover {
+	display: inline-block;	
+	background-size: contain;
+	background: transparent url('https://d3nevzfk7ii3be.cloudfront.net/igi/iqMP6TvuSRLj3q3H.standard') center no-repeat;
+}
+#btn_ibm:hover{
+	filter:contrast(3);
+}
+#btn_nerf-hasbro:hover{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	margin-left: -20px;
+	background: transparent url('https://d.scdn.gr/images/sku_main_images/010852/10852040/large_20170118153404_hasbro_n_strike_elite_disruptor.jpeg') center no-repeat;
+	background-color: white;
+}
+#btn_harley-davison{
+	display: inline-block;
+	height: 40px;
+	width:200px;
+	margin: auto;
+	margin-top: 0px;
+	color: #c90000;
+	font-size: 25px;
+	font-family: 'Futura', sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+#btn_harley-davison:hover{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	margin-left: -20px;
+	background: transparent url('http://hd-hog.com/main/public/admin/hdhog.png') center no-repeat;
+	background-color: white;
+}
+#btn_michaelkors:hover{
+	filter: blur(3px);
+}
+#btn_oldnavy{
+	display: inline-block;
+	height: 40px;
+	width:200px;
+	margin: auto;
+	margin-top: 90px;
+	color: #084672;
+	font-size: 30px;
+	font-family: 'Futura', sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+#btn_oldnavy:hover{
+	color: #155dd8;
+	font-size: 40px;
+	transform: rotate(360deg);
+	transition: 0.5s;
+}
+#btn_facebook{
+	display: inline-block;
+	width: 270px;
+	height: 270px;
+	margin-right: -20px;
+	margin-left: -20px;
+	background: transparent url("https://static.tildacdn.com/tild3638-6261-4431-b839-343230633837/003.png") center no-repeat;
+}
+#btn_facebook:hover{
+	filter:hue-rotate(30deg);
+}
+#btn_instagram:hover {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+	background: transparent url('https://gallinghouse.com/wp-content/uploads/2014/05/pound.png') center no-repeat;
+	background-size: contain;
+}
+#btn_thenewyorker{
+	-webkit-filter: grayscale (100%); 
+	filter:grayscale(100%);
+}
+#btn_thenewyorker:hover{
+	-webkit-filter: grayscale (0%); 
+	filter:grayscale(0%);
+}
+#btn_cartoonnetwork{
+	margin-top: 400px;
+}
+#btn_cartoonnetwork:hover{
+	filter: blur(5px);
+}
+#btn_fitbit:hover{
+	-webkit-filter: grayscale (100%); 
+	filter:grayscale(100%);
+	filter: blur(2px);
+}
+#btn_tts:hover{
+	filter:hue-rotate(140deg);
+}
+#btn_nike{
+	display: inline-block;
+	height: 40px;
+	width:200px;
+	margin: auto;
+	margin-top: 90px;
+	color: black;
+	font-size: 40px;
+	font-family: 'Arial', sans-serif;
+	font-weight: bold;
+	text-decoration: none;	
+}
+#btn_nike:hover{
+	display: inline-block;
+	background: transparent url('http://ecx.images-amazon.com/images/I/21%20JMe8UzcL.jpg') center no-repeat;
+	background-size: contain;
+}
+#btn_lyft{
+	display: inline-block;
+	height: 40px;
+	width:200px;
+	margin: auto;
+	margin-top: 90px;
+	color: black;
+	font-size: 60px;
+	font-family: 'Montserrat', cursive;
+	font-weight: bold;
+	text-decoration: none;
+	color: #7e149b;
+}
+#btn_lyft:hover{
+	transform: rotate(360deg);
+	transition: 0.7s;
+}
+#btn_missouri:hover{
+		filter:hue-rotate(20deg);
+}
+#btn_stjudes:hover{
+	filter:hue-rotate(25deg);
+}
+#btn_biss:hover{
+	-webkit-filter: grayscale (100%); 
+	filter:grayscale(100%);
+}
+#btn_tesla:hover{
+	display: inline-block;
+	width:200px;
+	height: 200px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+#btn_moo:hover{
+	filter: blur(3px);
+	opacity: 0.5;
+}
+#btn_hsn:hover{
+	-webkit-filter: grayscale (100%); 
+	filter:grayscale(100%);
+	opacity: 0.45;
+}
+#btn_army:hover{
+	opacity: 0.2;
+	-webkit-filter: grayscale (100%); 
+	filter:grayscale(100%);
+	filter: blur(3px);
+}
+#btn_samsung:hover{
+	display: inline-block;
+	width:200px;
+	height: 200px;
+	margin-top: 500px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+#btn_color:hover{
+	filter:contrast(6);
+}
+#btn_dime:hover{
+	opacity: 0.20;
+}
