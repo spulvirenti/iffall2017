@@ -1,0 +1,113 @@
+html{
+	background-color: black;
+}
+#hands{
+	position: fixed;
+	z-index: -1;
+	width: 880px;
+	height: 970px;
+	margin-left: 500px;
+	top: -5px;
+	opacity: 0.7;
+	float: left;
+}
+h1{
+	font-family: Helvetica;
+	font-size: 30pt;
+	color: #c1c1c1;
+	position: fixed;
+	top:400px;
+	left:-200px;
+	-webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+#body{
+	color: #53abc6;
+	font-size: 11pt;
+	line-height: 18px;
+	margin-left: 150px;
+	margin-top: 120px;
+	transition: all .5s;
+	width: 370px;
+}
+#body:hover{
+	color: #68dbff;
+}
+#body1:hover{
+	color: #68dbff;
+}
+#body2:hover{
+	color: #68dbff;
+}
+#body1,#body2{
+	color: #53abc6;
+	font-size: 11pt;
+	line-height: 18px;
+	margin-left: 150px;
+	transition: all .5s;
+	width: 370px;
+}	
+p{
+	font-family: 'Lekton', sans-serif;
+	width: 370px;
+}	
+#chorus{
+	color: #c10f0f;
+	font-size: 11pt;
+	line-height: 18px;
+	margin-left: 250px;
+	transition: all .5s;
+	width: 370px;
+}
+#chorusfinal{
+	color: #c10f0f;
+	font-size: 11pt;
+	line-height: 18px;
+	margin-left: 250px;
+	margin-bottom: 50px;
+	width: 370px;
+}
+#chorus:hover{
+	color:#ff1414;
+}
+#chorus2:hover{
+	color:#ff1414;
+}
+#chorusfinal{
+	transition: all .5s;
+}
+#chorusfinal:hover{
+	color:#ff1414;
+}
+.button1,.button2,.button3{
+	font-size: 30pt;
+	position: fixed;
+	z-index: 3;
+	bottom: 30px;
+	float: left;
+	display: inline-block;
+}
+.button1{
+	margin-left: 1200px;
+}
+.button2{
+	margin-left: 1250px;
+}
+.button3{
+	margin-left: 1300px;
+}
+#btn_facebook, #btn_twitter, #btn_instagram{
+	color:#c10f0f;
+	opacity: 0.7;
+	transition: all .4s;
+}
+#btn_facebook:hover{
+	font-size: 33pt;
+}
+#btn_twitter:hover{
+	font-size: 33pt;
+}
+#btn_instagram:hover{
+	font-size: 33pt;
+}
+
