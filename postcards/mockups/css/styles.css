@@ -1,0 +1,15 @@
+.desktop {
+ 	width: 75%;
+	margin: auto;
+	display: block;
+	margin-top: 10px;
+}
+  .mobile {
+  	width: 30%;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+img { 
+   border:1px solid #000000;
+}
