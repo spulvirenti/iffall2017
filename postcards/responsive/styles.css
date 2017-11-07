@@ -1,0 +1,161 @@
+html{
+	height: 100%;
+}
+body.housequotebody{
+	background-image: url("DesktopHouse.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.housequote{
+	font-size: 30pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: #06415d;
+	position: absolute;
+	top: 140px;
+	left: 180px;
+	width: 600px;
+}
+a{
+	text-decoration: none;
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: block;
+	cursor: pointer;
+}
+.housequote span{
+	font-weight: 200;
+	color: #06575e;
+}
+@media (max-width: 950px){
+	.housequote{
+	font-size: 20pt;
+	left: 10px;
+	top: 160px;
+	width: 300px;
+}
+}
+@media (max-width: 480px){
+	.housequote{
+	font-size: 15pt;
+	top: 180px;
+	left: 15px;
+	width: 300px;
+}
+}
+body.momquotebody{
+	background-image: url("DesktopMom.jpg");
+	background-size: cover;
+	background-position: right;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.momquote{
+	font-size: 30pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: black;
+	position: absolute;
+	top: 300px;
+	left: 620px;
+}
+.momquote span{
+	font-weight: 100;
+	color: #515151;
+}
+@media (max-width: 1200px){
+	.momquote{
+	left: 300px;
+	top: 300px;
+}
+}
+@media (max-width: 880px){
+	.momquote{
+	font-size: 25pt;
+	left: 150px;
+	top: 300px;
+	right: 200px;
+	width: 300px;
+}
+}
+@media (max-width: 700px){
+	.momquote{
+	font-size: 25pt;
+	left: 50px;
+	top: 300px;
+	width: 300px;
+}
+}
+@media (max-width: 480px){
+	.momquote{
+	font-size: 20pt;
+	top: 300px;
+	left: 60px;
+	width: 280px;
+}
+}
+body.reflexesquotebody{
+	background-image: url("DesktopReflexes.jpg");
+	background-size: cover;
+	background-position: left;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.reflexesquote{
+	font-size: 30pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: white;
+	position: absolute;
+	top: 620px;
+	left: 650px;
+	width: 550px;
+}
+.reflexesquote span{
+	font-weight: 100;
+	color: #ededed;
+}
+@media (max-width: 1200px){
+	.reflexesquote{
+	font-size: 25pt;
+	left: 500px;
+	width: 450px;
+}
+}
+@media (max-width: 960px){
+	.reflexesquote{
+	font-size: 25pt;
+	left: 350px;
+}
+}
+@media (max-width: 800px){
+	.reflexesquote{
+	font-size: 25pt;
+	left: 300px;
+	width: 400px;
+}
+}
+@media (max-width: 620px){
+	.reflexesquote{
+	font-size: 25pt;
+	left: 250px;
+	width: 400px;
+}
+}
+@media (max-width: 570px){
+	.reflexesquote{
+	font-size: 20pt;
+	top: 600px;
+	left: 200px;
+	width: 180px;
+}
+}
